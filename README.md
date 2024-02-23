@@ -14,3 +14,5 @@ Are you a book worm? I mean c'mon, what else is there to do on a 12 hour flightð
 
 ## Installation
 First you must run "npm run install". After that, you can run "npm run develop" and then click the link that says localhost:3000. Now you may use the full application.
+
+![Alt text](/img/Screenshot 2024-02-23 at 5.43.16â€¯PM.png?raw=true )
